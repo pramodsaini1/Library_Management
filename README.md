@@ -11,3 +11,11 @@
 # Management Page
 
 <img src="img/Screenshot (192).png" class="img-fluid"><br><br>
+
+# Add Librarian Page
+
+<img src="img/Screenshot (193).png" class="img-fluid"><br><br>
+
+# View Librarian Page
+
+<img src="img/Screenshot (194).png" class="img-fluid"><br><br>
