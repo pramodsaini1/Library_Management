@@ -28,3 +28,22 @@
 # Librarian Management Page
 
 <img src="img/Screenshot (195).png" class="img-fluid"><br><br>
+# Add Book Page
+
+<img src="img/Screenshot (196).png" class="img-fluid"><br><br>
+
+# View Book Page
+
+<img src="img/Screenshot (197).png" class="img-fluid"><br><br>
+
+# Issue Book Page
+
+<img src="img/Screenshot (198).png" class="img-fluid"><br><br>
+
+# View Issued Book Page
+
+<img src="img/Screenshot (199).png" class="img-fluid"><br><br>
+
+# Return Book Page
+
+<img src="img/Screenshot (200).png" class="img-fluid"><br><br>
