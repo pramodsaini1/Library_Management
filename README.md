@@ -7,3 +7,7 @@
 
 # Admin Login Page
 <img src="img/Screenshot (191).png" class="img-fluid"><br><br>
+
+# Management Page
+
+<img src="img/Screenshot (192).png" class="img-fluid"><br><br>
