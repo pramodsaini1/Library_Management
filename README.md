@@ -1,6 +1,6 @@
 # Library Management System (By using Java Swing)
 
-# In this project ,You can add book and view book and edit book and delete book by the book id,issue book and view issued book ,you can return book
+# A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 
 # Admin Page 
 <img src="img/Screenshot (190).png" class="img-fluid"><br><br>
