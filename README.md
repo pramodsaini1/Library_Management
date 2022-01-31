@@ -19,3 +19,12 @@
 # View Librarian Page
 
 <img src="img/Screenshot (194).png" class="img-fluid"><br><br>
+
+
+# Librarian Page
+
+<img src="img/Screenshot (191).png" class="img-fluid"><br><br>
+
+# Librarian Management Page
+
+<img src="img/Screenshot (195).png" class="img-fluid"><br><br>
